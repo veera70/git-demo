@@ -1,0 +1,30 @@
+Lecture Command Listing
+pwd
+ls
+mate README.md
+ls
+git status
+git add README.md
+git status
+git commit -m "Initial commit"
+clear
+git status
+ 
+
+Command Reference
+List
+
+ls
+Lists files and folders in current directory. Without parameters, will list non-hidden folders and files.
+
+Git Status
+
+git status
+Shows which files have been modified in the working directory vs Git's staging area.
+
+Git Add
+
+git add file-name
+Adds the new or newly modified file-name to Git's staging area (index).
+
+Git Commit
