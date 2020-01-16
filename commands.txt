@@ -205,3 +205,5 @@ Verify SSH authentication
 
 ssh -T git@github.com
 Above command uses ssh to connect to GitHub over the SSH protocol.
+
+End
